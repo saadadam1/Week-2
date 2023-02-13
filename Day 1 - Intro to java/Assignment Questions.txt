@@ -1,0 +1,37 @@
+1. WAP to print "welcome to java"
+2. WAP to accept two values and print addition.
+3. WAP to accept 3 subjects scores and print total and average score.
+4. WAP to accept employee salary and 3 shopping bills and find total shopping amount and % of amount employee spent on shopping on his/her salary.
+5. WAP to read basic salary and find gross salary.
+         HRA is 89% and DA is 90% on basic
+ 
+6. WAP to accept a number and check it is +ve or -ve 
+7. WAP to accept a number and check it is even or odd or zero.
+8. WAP to accept age and print she/he is eligible for voting ot not.
+9. WAP to accept week number and print week day.
+       1- Sunday  ..... 7- saturday
+10. WAP to print number of notes for the given amount.
+11. WAP to accept units and find bill.
+       for first 50 units : 0.50/unit
+       next 100 units : 1.23/unit
+       next 100 units: 1.90/unit
+       above 250 units: 2.34/unit
+ 
+12. WAP to accept basic salary and find gross salary
+      if basic is less than 10000    HRA is 67% and Da is 78%
+      basic between 10000 -- 20000  HRA is 70% and Da is 80%
+      above 20000 Hra is 73% and DA is 87%
+ 
+13. WAP to check the given year is leap year or not.
+ 
+14. WAP to accept project, internal and external score from student and check student got pass in all three subjects or not.
+       pass marks is 50.
+       find total score when student gets pass in all 3 subjects.
+       to calculate total score:
+            70% from project + 20% from external and 10% from internals.
+ 
+            print grade if total score is 90+  --> A
+                                                70--90  --> B
+                                                 50-70  --> C
+ 
+      print failed subject name along with the score.

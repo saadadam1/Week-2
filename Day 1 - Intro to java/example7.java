@@ -1,0 +1,29 @@
+//7. WAP to accept a number and check it is even or odd or zero.
+
+import java.util.Scanner;
+class Ex7 {
+  public static void main(String args[]) {
+ 
+    Scanner s=new Scanner(System.in);
+    
+    int num1;
+ 
+    System.out.println("Enter the number");
+    num1 =s.nextInt();
+
+    if(num1==0)
+    {
+   System.out.println("the number is zero");
+    }
+    else if(num1%2==0)
+    {
+  System.out.println("the number is even");
+    }
+     else
+    {
+  System.out.println("the number is odd");
+    }
+  
+ 
+  }
+}

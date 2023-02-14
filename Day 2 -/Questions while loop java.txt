@@ -1,0 +1,5 @@
+1. WAP to print number of digits of a given number using while loop.
+2. WAP to print number of even digits and odd digits of a given number using while loop.
+3. WAP to print sum of digits of a given number
+4. WAP to print sum of even digits and sum of odd digits of a given number using while loop.
+5. WAP to print reverse of a given number.
